@@ -24,7 +24,13 @@ Web Developers are also responsible for:
 
 ## _Required technical and non-technical skills_
 
-## _Examples of an Entry Level, Average, and High Level jobs with salary Range_
+| Technical Skils | Non-Technincal SKills |
+| --------------- | --------------------- |
+| Front-end: Being comfortable with using languages like JavaScript, HTML, CSS | Having constant interest in current trends and growth. |
+| Backend: Having familiarity in Python, Java, SQL, NoSQL, and Git. | Strong communication and leadership skills (As you'll be mostly working within teams)|
+| Knowledge of web servers and their functioning | Artistically inclined for front end or mathematically well off for backend data analysis. |   
+
+## _Entry Level, Average, and High Level jobs with salary Range_
 
 ## _College and/or universities that offers entrance into a related program_ 
 
