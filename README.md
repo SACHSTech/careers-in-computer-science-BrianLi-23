@@ -15,9 +15,12 @@ Web Developers are also responsible for:
 
 * Collaborating with graphic designers for designs monitor website traffic
 * Troubleshooting website problems
-* Frequent updates on websites
+* Making frequent updates on websites
 
 ## _Required education_
+
+* Computer Science Degree (Bachelors)
+* Although not required, but highly recommended, a certificate in web development and data management (For Full Stack Developers)
 
 ## _Required technical and non-technical skills_
 
