@@ -36,7 +36,8 @@ Web Developers are also responsible for:
 
 [Junior Web Developer at Pay Shepard](https://payshepherd.applytojobs.ca/information+technology/11330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
-Salary - (Glassdoor) $37k–75k
+Salary - $37k–75k
+City - Vancouver, BC
 
 Job Description -  PayShepherd is a growing organization transforming the way heavy industries do business. Our software is a cloud-based billing validation platform that automates the previously manual onerous review of paper based vendor billing. By running analytics over aggregated digital billing our user centric tool ensures 100% contract compliance and elimination of overbilling.
 
@@ -47,13 +48,27 @@ This role will report directly to the Director of Technology and will be respons
 
 ### **Average Level (Intermediate)**
 
-[Mid Level Data Scientist & Full Stack Developer](https://ca.indeed.com/jobs?q=Web+Developer+mid-level&l=Ontario&vjk=70cac5a38109adb2)
+[Mid Level Data Scientist & Full Stack Developer](https://ca.indeed.com/cmp/Plan-De-Vol-1/jobs?jk=70cac5a38109adb2&start=0&clearPrefilter=1)
+
+Salary - $55,000–$65,000 a year
+City - Oshawa, ON
+
+Job - Description - As a valued member of a start-up, you will work with large historical and live flight data sets built using PostgreSQL and its spatial extension – PostGIS. You will support the build and maintenance of airline flight routing data sets to model flight times, routes flown between city-pairs in their lateral dimension.
+
+The position is initially on a 3-month contract and extendable to a full-time position thereafter. The objective under this project is to develop machine learning use cases for predictive algorithms that use flight time metrics to develop highly accurate & probabilistic flight route and city-pair prediction models using industry best-practice techniques in data training and machine learning. The ability to work with large but structured historical data sets and applying external variables such as winds, precipitation, and traffic congestion will be required.
+
 
 ### **High Level (Senior)**
 
-[Senior Full Stack Developer](https://ca.indeed.com/jobs?q=Senior+Web+Developer&l=Ontario&vjk=9604b251bf6dfdca&advn=3490658829999532)
+[Senior Full Stack Developer](https://ca.indeed.com/cmp/Acentury-Inc./jobs?jk=9604b251bf6dfdca&start=0&clearPrefilter=1)
 
+Salary - $90,000–$160,000 a year
 
+City - Richmond Hill, ON
+
+Job Description - There is an exciting opportunity as full-time software engineer with the desire, commitment and work ethic to develop and maintain our web-based applications. You'll play a key role in building and shaping our platform on both front-end and back-end for varieties of features to ensure the quality and time to market for each release.
+
+If you are energetic, goal-oriented, creative, and experienced in software development, you may be eligible to become a member of our team.
 
 ## _College and/or universities that offers entrance into a related program_ 
 
