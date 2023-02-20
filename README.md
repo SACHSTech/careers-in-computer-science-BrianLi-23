@@ -76,7 +76,7 @@ If you are energetic, goal-oriented, creative, and experienced in software devel
 
 Program Choice at Waterloo: [Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
 
-<img src="Pictures/waterloocover.png" width="2000" height="425"> </br>
+<img src="Pictures/waterloocover.png" width="2000" height="400"> </br>
 
 At Waterloo, you can take one of the best computer science program in the world. Known for their excellent Co-op program, students get to work with leading technology leaders all over the world. The program also has one of the highest regarded elective programs, offering both quality and quantity in their education.
 
@@ -138,7 +138,7 @@ Experiential learning opportunities can take multiple forms, from self-projects 
 ### Extracurricular Programs
 1. [STEMing Up Program - hEr Evolution](https://www.hervolution.org/)
 
-    <img src="Pictures/herevolution.png" width="2000" height="225"> </br>
+    <img src="Pictures/herevolution.png" width="2000" height="200"> </br>
 
     A women's leadership program hosted by Shopify, where particapants, using web applications, build online payment systems for organizations. Use skills such as HTML and CSS and Canva, also get team experience. 
 
