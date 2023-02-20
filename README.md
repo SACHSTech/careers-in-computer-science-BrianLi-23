@@ -80,10 +80,7 @@ Program Choice at Waterloo: [Computer Science](https://uwaterloo.ca/future-stude
 
 At Waterloo, you can take one of the best computer science program in the world. Known for their excellent Co-op program, students get to work with leading technology leaders all over the world. The program also has one of the highest regarded elective programs, offering both quality and quantity in their education.
 
-Waterloo's computer science program highlights: 
- * There is excessive social and academic support. Through Waterloo’s Computer Science Club, students can access high-powered software or get social with fellow students.
-
-* Students get to study their interests. With over 70 computer science related courses and no end of options of electives, one can have their degree tailored to their specific interests.
+Waterloo's computer science program highlights excessive social and academic support. Through Waterloo’s Computer Science Club, students can access high-powered software or get social with fellow students. Additionally, Students get to study their interests. With over 70 computer science related courses and no end of options of electives, one can have their degree tailored to their specific interests.
 
 Sample co-op job titles:
  * Full stack developer
@@ -143,10 +140,10 @@ Experiential learning opportunities can take multiple forms, from self-projects 
     A women's leadership program hosted by Shopify, where particapants, using web applications, build online payment systems for organizations. Use skills such as HTML and CSS and Canva, also get team experience. 
 
 ### Courses
-1. [Harvard CS50 Program](https://www.hervolution.org/)
+1. [Harvard CS50 Program](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 
-    <img src="Pictures/herevolution.png" width="2000" height="250"> </br>
+    <img src="Pictures/harvardcs50.jpg" width="500" height="300"> </br>
 
-    
+    Harvard’s CS50 program is a course created by Harvard that acts as an introduction to intellectual enterprises of computer science and programming. This course covers concepts like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and **web development**. It also gives familiarity with a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML
 
 ## _Work Cited_
