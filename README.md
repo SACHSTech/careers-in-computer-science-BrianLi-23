@@ -117,8 +117,12 @@ These are some of the first year programs you will take at Waterloo Computer Sci
 | One elective | Two electives |
 
 ### Length of time
-To obtain a Bachelor diploma at University of Waterloo Computer Science at the University of Waterloo offers as a 4-years (8 sessions) program.
+To obtain a Bachelor diploma at University of Waterloo Computer Science, a student has to undergo usually a 4-5 years (8 sessions) program depending on electives and Co-op opportunities.
 
-## _Valuable experiential learning opportunities that make for a stronger job candidate_
+## _Experiential Learning Opportunities_
+Experiential learning opportunities can take multiple forms, from self-projects to internships, there are multiple ways a student can enrich themselves to become a stronger job candidate. 
+
+### Self Starter Projects
+
 
 ## _Work Cited_
