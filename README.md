@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10095862&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science - Web Developer - Brian Li
 
-<img src="Pictures/coverpage.jpeg" width="2000" height="400"> </br>
+<img src="Pictures/coverpage.jpeg" width="2000" height="375"> </br>
 
 ## _Web Developer_
 
@@ -76,7 +76,7 @@ If you are energetic, goal-oriented, creative, and experienced in software devel
 
 Program Choice at Waterloo: [Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
 
-<img src="Pictures/waterloocover.png" width="2000" height="450"> </br>
+<img src="Pictures/waterloocover.png" width="2000" height="425"> </br>
 
 At Waterloo, you can take one of the best computer science program in the world. Known for their excellent Co-op program, students get to work with leading technology leaders all over the world. The program also has one of the highest regarded elective programs, offering both quality and quantity in their education.
 
@@ -135,13 +135,18 @@ Experiential learning opportunities can take multiple forms, from self-projects 
 
     Create your own personal web game! A great start and example of this would be a web Tic Tac Toe game. Ensure to continously expand on these games with new features like user authentication, tracking score to keep exploring and learning. These projects exposes the user to using javascript frameworks, working with databases, or even implementing firebase into websites. These projects mainly encourage the user to utilize javascript on top of basic HTML and CSS.
 
-### Extracurricular xtracirrcular Programs
+### Extracurricular Programs
 1. [STEMing Up Program - hEr Evolution](https://www.hervolution.org/)
 
-    <img src="Pictures/herevolution.png" width="2000" height="250"> </br>
+    <img src="Pictures/herevolution.png" width="2000" height="225"> </br>
 
     A women's leadership program hosted by Shopify, where particapants, using web applications, build online payment systems for organizations. Use skills such as HTML and CSS and Canva, also get team experience. 
 
+### Courses
+1. [Harvard CS50 Program](https://www.hervolution.org/)
 
+    <img src="Pictures/herevolution.png" width="2000" height="250"> </br>
+
+    
 
 ## _Work Cited_
