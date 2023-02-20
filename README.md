@@ -148,18 +148,18 @@ Experiential learning opportunities can take multiple forms, from self-projects 
 
 ## _Work Cited_
 
-BrainStation. “What Does a Web Developer Do? (2023 Guide).” BrainStation®, BrainStation®, 25 Nov. 2021, brainstation.io/career-guides/what-does-a-web-developer-do. Accessed 20 Feb. 2023.
+BrainStation. “What Does a Web Developer Do? (2023 Guide).” BrainStation®, BrainStation®, 25 Nov. 2021, https://brainstation.io/career-guides/what-does-a-web-developer-do. Accessed 20 Feb. 2023.
 
-Ojaokomo, Nathan. “15 Backend Project Ideas for Your Developer Portfolio.” Hubspot.com, HubSpot, 31 Jan. 2023, blog.hubspot.com/website/backend-projects. Accessed 20 Feb. 2023.
+Ojaokomo, Nathan. “15 Backend Project Ideas for Your Developer Portfolio.” Hubspot.com, HubSpot, 31 Jan. 2023, https://blog.hubspot.com/website/backend-projects. Accessed 20 Feb. 2023.
 
-Wander In Dev. “About the Full-Stack Web Developer • Wander in Dev.” Wander in Dev, 20 July 2018, wanderin.dev/about-the-full-stack-web-developer/. Accessed 20 Feb. 2023.
+Wander In Dev. “About the Full-Stack Web Developer • Wander in Dev.” Wander in Dev, 20 July 2018, https://wanderin.dev/about-the-full-stack-web-developer/. Accessed 20 Feb. 2023.
 
-‌Kourmentza, Eleni. “Web Developer Job Description.” Recruiting Resources: How to Recruit and Hire Better, 4 July 2013, resources.workable.com/web-developer-job-description#:~:text=What%20are%20the%20duties%20and,and%20update%20websites%20as%20necessary. Accessed 19 Feb. 2023.
+‌Kourmentza, Eleni. “Web Developer Job Description.” Recruiting Resources: How to Recruit and Hire Better, 4 July 2013, https://resources.workable.com/web-developer-job-description#:~:text=What%20are%20the%20duties%20and,and%20update%20websites%20as%20necessary. Accessed 19 Feb. 2023.
 
-‌“CS50: Introduction to Computer Science.” Professional and Lifelong Learning, 12 Aug. 2015, pll.harvard.edu/course/cs50-introduction-computer-science?delta=0. Accessed 20 Feb. 2023.
+‌“CS50: Introduction to Computer Science.” Professional and Lifelong Learning, 12 Aug. 2015, https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0. Accessed 20 Feb. 2023.
 
-‌“Computer Science.” Undergraduate Programs, 9 July 2021, uwaterloo.ca/future-students/courses/computer-science. Accessed 20 Feb. 2023.
+‌“Computer Science.” Undergraduate Programs, 9 July 2021, https://uwaterloo.ca/future-students/courses/computer-science. Accessed 20 Feb. 2023.
 
-‌“HEr VOLUTION | Canadian Women in STEM.” Hervolution.org, 2023, www.hervolution.org/. Accessed 20 Feb. 2023.
+‌“HEr VOLUTION | Canadian Women in STEM.” Hervolution.org, 2023, https://www.hervolution.org/. Accessed 20 Feb. 2023.
 
-“Simple Tic Tac Toe Game Using JavaScript.” GeeksforGeeks, GeeksforGeeks, 27 Nov. 2020, www.geeksforgeeks.org/simple-tic-tac-toe-game-using-javascript/. Accessed 20 Feb. 2023.
+“Simple Tic Tac Toe Game Using JavaScript.” GeeksforGeeks, GeeksforGeeks, 27 Nov. 2020, https://www.geeksforgeeks.org/simple-tic-tac-toe-game-using-javascript/. Accessed 20 Feb. 2023.
