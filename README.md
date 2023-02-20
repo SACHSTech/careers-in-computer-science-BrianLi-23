@@ -24,13 +24,36 @@ Web Developers are also responsible for:
 
 ## _Required technical and non-technical skills_
 
-| Technical Skils | Non-Technincal SKills |
+| Technical Skils | Non-Technical SKills |
 | --------------- | --------------------- |
 | Front-end: Being comfortable with using languages like JavaScript, HTML, CSS | Having constant interest in current trends and growth. |
 | Backend: Having familiarity in Python, Java, SQL, NoSQL, and Git. | Strong communication and leadership skills (As you'll be mostly working within teams)|
-| Knowledge of web servers and their functioning | Artistically inclined for front end or mathematically well off for backend data analysis. |   
+| Knowledge of web servers and their functioning | Artistically inclined for front end and mathematically well off for backend data analysis. |   
 
 ## _Entry Level, Average, and High Level jobs with salary Range_
+
+### **Entry Level (Junior)**
+
+[Junior Web Developer at Pay Shepard](https://payshepherd.applytojobs.ca/information+technology/11330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+Salary - (Glassdoor) $37k–75k
+
+Job Description -  PayShepherd is a growing organization transforming the way heavy industries do business. Our software is a cloud-based billing validation platform that automates the previously manual onerous review of paper based vendor billing. By running analytics over aggregated digital billing our user centric tool ensures 100% contract compliance and elimination of overbilling.
+
+We have an aggressive 24 month growth plan and are looking to build a great team who can execute on the vision. Are you the individual who will be able to participate personally, professionally and financially?
+ 
+This role will report directly to the Director of Technology and will be responsible for executing on the product roadmap for PayShepherd.
+
+
+### **Average Level (Intermediate)**
+
+[Mid Level Data Scientist & Full Stack Developer](https://ca.indeed.com/jobs?q=Web+Developer+mid-level&l=Ontario&vjk=70cac5a38109adb2)
+
+### **High Level (Senior)**
+
+[Senior Full Stack Developer](https://ca.indeed.com/jobs?q=Senior+Web+Developer&l=Ontario&vjk=9604b251bf6dfdca&advn=3490658829999532)
+
+
 
 ## _College and/or universities that offers entrance into a related program_ 
 
