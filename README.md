@@ -39,12 +39,9 @@ Web Developers are also responsible for:
 Salary - $37k–75k
 City - Vancouver, BC
 
-Job Description -  PayShepherd is a growing organization transforming the way heavy industries do business. Our software is a cloud-based billing validation platform that automates the previously manual onerous review of paper based vendor billing. By running analytics over aggregated digital billing our user centric tool ensures 100% contract compliance and elimination of overbilling.
+Job Description:
 
-We have an aggressive 24 month growth plan and are looking to build a great team who can execute on the vision. Are you the individual who will be able to participate personally, professionally and financially?
- 
-This role will report directly to the Director of Technology and will be responsible for executing on the product roadmap for PayShepherd.
-
+> PayShepherd is a growing organization transforming the way heavy industries do business. Our software is a cloud-based billing validation platform that automates the previously manual onerous review of paper based vendor billing. By running analytics over aggregated digital billing our user centric tool ensures 100% contract compliance and elimination of overbilling. We have an aggressive 24 month growth plan and are looking to build a great team who can execute on the vision. Are you the individual who will be able to participate personally, professionally and financially? This role will report directly to the Director of Technology and will be responsible for executing on the product roadmap for PayShepherd.
 
 ### **Average Level (Intermediate)**
 
@@ -53,9 +50,9 @@ This role will report directly to the Director of Technology and will be respons
 Salary - $55,000–$65,000 a year
 City - Oshawa, ON
 
-Job - Description - As a valued member of a start-up, you will work with large historical and live flight data sets built using PostgreSQL and its spatial extension – PostGIS. You will support the build and maintenance of airline flight routing data sets to model flight times, routes flown between city-pairs in their lateral dimension.
+Job Description: 
 
-The position is initially on a 3-month contract and extendable to a full-time position thereafter. The objective under this project is to develop machine learning use cases for predictive algorithms that use flight time metrics to develop highly accurate & probabilistic flight route and city-pair prediction models using industry best-practice techniques in data training and machine learning. The ability to work with large but structured historical data sets and applying external variables such as winds, precipitation, and traffic congestion will be required.
+> As a valued member of a start-up, you will work with large historical and live flight data sets built using PostgreSQL and its spatial extension – PostGIS. You will support the build and maintenance of airline flight routing data sets to model flight times, routes flown between city-pairs in their lateral dimension. The position is initially on a 3-month contract and extendable to a full-time position thereafter. The objective under this project is to develop machine learning use cases for predictive algorithms that use flight time metrics to develop highly accurate & probabilistic flight route and city-pair prediction models using industry best-practice techniques in data training and machine learning. The ability to work with large but structured historical data sets and applying external variables such as winds, precipitation, and traffic congestion will be required.
 
 
 ### **High Level (Senior)**
@@ -66,9 +63,9 @@ Salary - $90,000–$160,000 a year
 
 City - Richmond Hill, ON
 
-Job Description - There is an exciting opportunity as full-time software engineer with the desire, commitment and work ethic to develop and maintain our web-based applications. You'll play a key role in building and shaping our platform on both front-end and back-end for varieties of features to ensure the quality and time to market for each release.
+Job Description:
 
-If you are energetic, goal-oriented, creative, and experienced in software development, you may be eligible to become a member of our team.
+> There is an exciting opportunity as full-time software engineer with the desire, commitment and work ethic to develop and maintain our web-based applications. You'll play a key role in building and shaping our platform on both front-end and back-end for varieties of features to ensure the quality and time to market for each release. If you are energetic, goal-oriented, creative, and experienced in software development, you may be eligible to become a member of our team.
 
 ## _Education_
 
@@ -117,7 +114,7 @@ These are some of the first year programs you will take at Waterloo Computer Sci
 To obtain a Bachelor diploma at University of Waterloo Computer Science, a student has to undergo usually a 4-5 years (8 sessions) program depending on electives and Co-op opportunities.
 
 ## _Experiential Learning Opportunities_
-Experiential learning opportunities can take multiple forms, from self-projects to internships, there are multiple ways a student can enrich themselves to become a stronger job candidate. 
+Experiential learning opportunities can take multiple forms, from self-projects to internships, there are multiple ways a student can enrich themselves to become a stronger job candidate. These are some of the projects or programs one can take to build a strong resume or gain experience for future jobs!
 
 ### Self Starter Projects
 1. Building a personal websites 
