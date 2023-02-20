@@ -129,10 +129,18 @@ Experiential learning opportunities can take multiple forms, from self-projects 
 
     Customize and build your own personal website out of HTML, CSS, and Javascript! This project will teach you the essentials of the three languages as well give an insight on building the front-end of web applications. Bonus: You can use it to display your achievements (almost like a portfolio) while also acting as a self-produced coding project.
 
-### Extracirrcular Programs
-2. [STEMing Up Program - hEr Evolution](https://www.hervolution.org/)
+2. Building a web game/application (Example: Tic Tac Toe)
 
-    A women's leadership program hosted by Shopify, using web applications to build online payment systems for organizations. Use skills such as HTML and CSS and Canva, also get team experience. 
+    <img src="Pictures/tictactoe.png" width="550" height="450"> </br>
+
+    Create your own personal web game! A great start and example of this would be a web Tic Tac Toe game. Ensure to continously expand on these games with new features like user authentication, tracking score to keep exploring and learning. These projects exposes the user to using javascript frameworks, working with databases, or even implementing firebase into websites. These projects mainly encourage the user to utilize javascript on top of basic HTML and CSS.
+
+### Extracurricular xtracirrcular Programs
+1. [STEMing Up Program - hEr Evolution](https://www.hervolution.org/)
+
+    <img src="Pictures/herevolution.png" width="2000" height="250"> </br>
+
+    A women's leadership program hosted by Shopify, where particapants, using web applications, build online payment systems for organizations. Use skills such as HTML and CSS and Canva, also get team experience. 
 
 
 
