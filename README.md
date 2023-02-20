@@ -43,6 +43,13 @@ Job Description:
 
 > PayShepherd is a growing organization transforming the way heavy industries do business. Our software is a cloud-based billing validation platform that automates the previously manual onerous review of paper based vendor billing. By running analytics over aggregated digital billing our user centric tool ensures 100% contract compliance and elimination of overbilling. We have an aggressive 24 month growth plan and are looking to build a great team who can execute on the vision. Are you the individual who will be able to participate personally, professionally and financially? This role will report directly to the Director of Technology and will be responsible for executing on the product roadmap for PayShepherd.
 
+Additional Skills or experience
+* Version Control Systems
+* Web services, like JSON and REST.
+* AWS and Linux Servers
+* Laraval would be an asset
+
+
 ### **Average Level (Intermediate)**
 
 [Mid Level Data Scientist & Full Stack Developer](https://ca.indeed.com/cmp/Plan-De-Vol-1/jobs?jk=70cac5a38109adb2&start=0&clearPrefilter=1)
@@ -54,6 +61,13 @@ Job Description:
 
 > As a valued member of a start-up, you will work with large historical and live flight data sets built using PostgreSQL and its spatial extension – PostGIS. You will support the build and maintenance of airline flight routing data sets to model flight times, routes flown between city-pairs in their lateral dimension. The position is initially on a 3-month contract and extendable to a full-time position thereafter. The objective under this project is to develop machine learning use cases for predictive algorithms that use flight time metrics to develop highly accurate & probabilistic flight route and city-pair prediction models using industry best-practice techniques in data training and machine learning. The ability to work with large but structured historical data sets and applying external variables such as winds, precipitation, and traffic congestion will be required.
 
+Additional Skills or experience
+* Strong abilities to work independently with PostgreSQL & PostGIS
+* Statistics & Probability: Write high-quality machine learning models and algorithms by leveraging statistical analysis concepts like linear regression.
+* Statistical Techniques such as Probability distributions, over & under sampling, Bayesian (or frequency) statistics, dimension reduction, etc.
+* Data Wrangling: Understanding database management tools including PostgreSQL & PostGIS extension. Wrangling tools such as Scrapy, Talend, and Tableau
+* Cloud/Azure experience
+* Academic knowledge of Algorithm structures, Graph Structures, Machine learning & Predictive analytics Interest to work with Leaflet front-end tools and Cesium JS with the Unity Framework.
 
 ### **High Level (Senior)**
 
@@ -66,6 +80,14 @@ City - Richmond Hill, ON
 Job Description:
 
 > There is an exciting opportunity as full-time software engineer with the desire, commitment and work ethic to develop and maintain our web-based applications. You'll play a key role in building and shaping our platform on both front-end and back-end for varieties of features to ensure the quality and time to market for each release. If you are energetic, goal-oriented, creative, and experienced in software development, you may be eligible to become a member of our team.
+
+Additional Skills or experience:
+* Minimum 2-year working experience in Angular 7+, able to design and implement modules and components
+* Deep understanding of thread, blocking/non-blocking, memory, and TCP sockets.
+* Minimum 3-year experience with Spring Boot, solid knowledge of Spring Framework and its modules such as CDI, Config, Logging, JPA, MQ, Security etc.
+* Good knowledge of HTTP Protocol, SSL, Web Socket. GRPC is a nice asset.
+* Being able to work in Linux/Unix/Windows Environment with docker, familiar with IntelliJ or Eclipse
+* Working experience with Kotlin and/or Golang is a big asset.
 
 ## _Education_
 
