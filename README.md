@@ -72,28 +72,52 @@ If you are energetic, goal-oriented, creative, and experienced in software devel
 
 ## _Education_
 
+### Educational institution: [Waterloo](https://uwaterloo.ca/)
+
+Program Choice at Waterloo: [Computer Science](https://uwaterloo.ca/future-students/programs/computer-science)
+
+<img src="Pictures/waterloocover.png" width="2000" height="450"> </br>
+
+At Waterloo, you can take one of the best computer science program in the world. Known for their excellent Co-op program, students get to work with leading technology leaders all over the world. The program also has one of the highest regarded elective programs, offering both quality and quantity in their education.
+
+Waterloo's computer science program highlights: 
+ * There is excessive social and academic support. Through Waterloo’s Computer Science Club, students can access high-powered software or get social with fellow students.
+
+* Students get to study their interests. With over 70 computer science related courses and no end of options of electives, one can have their degree tailored to their specific interests.
+
+Sample co-op job titles:
+ * Full stack developer
+ * Game programmer
+ * Web developer
+ * Technical systems analyst
+ * Research assistant
+ * Software developer
+
 ### Entrance requirements
 
+**Courses Required:**
+* Advanced Functions
+* Calculus and Vectors
+* Any Grade 12 U English
+* One other 4U course
+
+Admission Averages for School Courses: Individual selection from the low to mid-90s, realistically cut off average is 95%
+
+_Additional: An Admission Information Form (AIF) is required for admission to this program. A information form where students write a little about themselves and extracurriculars._
 
 ### First year program (courses)
 These are some of the first year programs you will take at Waterloo Computer Science:
 
-**September to December**
-* CS 135 – Designing Functional Programs
-* MATH 135 – Algebra for Honours Mathematics
-* MATH 137 – Calculus 1 for Honours Mathematics
-* One communication skills course
-* One elective
+| September to December | January to April |
+| --------------------- | -----------------|
+| CS 135 – Designing Functional Programs | CS 136 – Elementary Algorithm Design and Data Abstraction | 
+| MATH 135 – Algebra for Honours Mathematics | CS 136L – Tools and Techniques for Software Development |
+| MATH 137 – Calculus 1 for Honours Mathematics | MATH 136 – Linear Algebra 1 for Honours Mathematics |
+| One communication skills course | MATH 138 – Calculus 2 for Honours Mathematics |
+| One elective | Two electives |
 
-**January to April**
-* CS 136 – Elementary Algorithm Design and Data Abstraction
-* CS 136L – Tools and Techniques for Software Development
-* MATH 136 – Linear Algebra 1 for Honours Mathematics
-* MATH 138 – Calculus 2 for Honours Mathematics
-* Two electives
-
-
-the length of time to complete the degree or diploma for the course 
+### Length of time
+To obtain a Bachelor diploma at University of Waterloo Computer Science at the University of Waterloo offers as a 4-years (8 sessions) program.
 
 ## _Valuable experiential learning opportunities that make for a stronger job candidate_
 
