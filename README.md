@@ -70,11 +70,30 @@ Job Description - There is an exciting opportunity as full-time software enginee
 
 If you are energetic, goal-oriented, creative, and experienced in software development, you may be eligible to become a member of our team.
 
-## _College and/or universities that offers entrance into a related program_ 
+## _Education_
 
-## _Entrance requirements_
- description of first year program (courses) that you would take
-    the length of time to complete the degree or diploma for the course 
+### Entrance requirements
+
+
+### First year program (courses)
+These are some of the first year programs you will take at Waterloo Computer Science:
+
+**September to December**
+* CS 135 – Designing Functional Programs
+* MATH 135 – Algebra for Honours Mathematics
+* MATH 137 – Calculus 1 for Honours Mathematics
+* One communication skills course
+* One elective
+
+**January to April**
+* CS 136 – Elementary Algorithm Design and Data Abstraction
+* CS 136L – Tools and Techniques for Software Development
+* MATH 136 – Linear Algebra 1 for Honours Mathematics
+* MATH 138 – Calculus 2 for Honours Mathematics
+* Two electives
+
+
+the length of time to complete the degree or diploma for the course 
 
 ## _Valuable experiential learning opportunities that make for a stronger job candidate_
 
