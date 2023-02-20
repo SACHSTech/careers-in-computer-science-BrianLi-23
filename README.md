@@ -123,6 +123,17 @@ To obtain a Bachelor diploma at University of Waterloo Computer Science, a stude
 Experiential learning opportunities can take multiple forms, from self-projects to internships, there are multiple ways a student can enrich themselves to become a stronger job candidate. 
 
 ### Self Starter Projects
+1. Building a personal websites 
+
+    <img src="Pictures/personalwebsite.jpg" width="800" height="450"> </br>
+
+    Customize and build your own personal website out of HTML, CSS, and Javascript! This project will teach you the essentials of the three languages as well give an insight on building the front-end of web applications. Bonus: You can use it to display your achievements (almost like a portfolio) while also acting as a self-produced coding project.
+
+### Extracirrcular Programs
+2. [STEMing Up Program - hEr Evolution](https://www.hervolution.org/)
+
+    A women's leadership program hosted by Shopify, using web applications to build online payment systems for organizations. Use skills such as HTML and CSS and Canva, also get team experience. 
+
 
 
 ## _Work Cited_
