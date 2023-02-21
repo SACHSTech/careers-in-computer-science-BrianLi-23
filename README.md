@@ -45,6 +45,7 @@ Average base salary for Web Developers in Canada: $72,201, however depends based
 [Junior Web Developer at Pay Shepard](https://payshepherd.applytojobs.ca/information+technology/11330?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
 
 Salary - $37k–75k
+
 City - Vancouver, BC
 
 Job Description:
@@ -63,6 +64,7 @@ Additional Skills or experience
 [Mid Level Data Scientist & Full Stack Developer](https://ca.indeed.com/cmp/Plan-De-Vol-1/jobs?jk=70cac5a38109adb2&start=0&clearPrefilter=1)
 
 Salary - $55,000–$65,000 a year
+
 City - Oshawa, ON
 
 Job Description: 
