@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10095862&assignment_repo_type=AssignmentRepo)
 # Careers in Computer Science - Web Developer - Brian Li
 
-<img src="Pictures/coverpage.jpeg" width="2000" height="375"> </br>
+<img src="Pictures/coverpage.jpeg" width="2000" height="325"> </br>
 
 ## _Web Developer_
 
@@ -31,6 +31,8 @@ Web Developers are also responsible for:
 | Front-end: Being comfortable with using languages like JavaScript, HTML, CSS | Having constant interest in current trends and growth. |
 | Backend: Having familiarity in Python, Java, SQL, NoSQL, and Git. | Strong communication and leadership skills (As you'll be mostly working within teams)|
 | Knowledge of web servers and their functioning | Artistically inclined for front end and mathematically well off for backend data analysis. |   
+
+On top of these things, web developers (or any form of developers in computer science) are committed and have a great passion for their field.
 
 ## _Entry Level, Average, and High Level jobs with salary Range_
 
