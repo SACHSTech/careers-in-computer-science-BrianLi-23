@@ -13,7 +13,8 @@ A web developer is responsible for programming and maintaining the functionality
 
 Web Developers are also responsible for:
 
-* Collaborating with graphic designers for designs monitor website traffic
+* Collaborating with graphic designers for designs
+* Monitor website traffic
 * Troubleshooting website problems
 * Making frequent updates on websites
 
