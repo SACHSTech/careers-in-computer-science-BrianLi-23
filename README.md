@@ -30,11 +30,15 @@ Web Developers are also responsible for:
 | --------------- | --------------------- |
 | Front-end: Being comfortable with using languages like JavaScript, HTML, CSS | Having constant interest in current trends and growth. |
 | Backend: Having familiarity in Python, Java, SQL, NoSQL, and Git. | Strong communication and leadership skills (As you'll be mostly working within teams)|
-| Knowledge of web servers and their functioning | Artistically inclined for front end and mathematically well off for backend data analysis. |   
+| Knowledge of web servers and their functions| Artistically inclined for front end and mathematically well off for backend data analysis. |   
+| Have a general knowledge of UI and UX as it helps with speed in creating projects |  |  
 
 On top of these things, web developers (or any form of developers in computer science) are committed and have a great passion for their field.
 
-## _Entry Level, Average, and High Level jobs with salary Range_
+## _Entry Level, Average, and High Level jobs (With Salary Range)_
+
+### [Salary Range](https://ca.indeed.com/career/web-developer/salaries)
+Average base salary for Web Developers in Canada: $72,201, however depends based experience and work
 
 ### **Entry Level (Junior)**
 
