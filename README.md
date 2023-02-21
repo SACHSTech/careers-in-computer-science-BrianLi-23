@@ -5,7 +5,7 @@
 
 ## _Web Developer_
 
-## Career Description
+## _Career Description_
 Have you wondered, how do websites like Youtube or Google work? They don't magically appear online but instead, someone is in charge of writing the website code and handling its data. That's the job of web developers! Web developers control the websites we use and see everyday from it's look to function.
 
 ## _Typical duties and responsibilities_
@@ -28,17 +28,17 @@ Web Developers are also responsible for:
 
 | Technical Skils | Non-Technical SKills |
 | --------------- | --------------------- |
-| Front-end: Being comfortable with using languages like JavaScript, HTML, CSS | Having constant interest in current trends and growth. |
-| Backend: Having familiarity in Python, Java, SQL, NoSQL, and Git. | Strong communication and leadership skills (As you'll be mostly working within teams)|
-| Knowledge of web servers and their functions| Artistically inclined for front end and mathematically well off for backend data analysis. |   
-| Have a general knowledge of UI and UX as it helps with speed in creating projects |  |  
+| Front-end: Being comfortable with using languages like JavaScript, HTML, CSS. | Having constant interest in current trends and growth. |
+| Backend: Having familiarity in Python, Java, SQL, NoSQL, and Git. | Strong communication and leadership skills (As you'll be mostly working within teams).|
+| Knowledge of web servers and their functions. | Artistically inclined for front end and mathematically well off for backend data analysis. |   
+| Have a general knowledge of UI and UX as it helps with speed in creating projects. |  |  
 
 On top of these things, web developers (or any form of developers in computer science) are committed and have a great passion for their field.
 
 ## _Entry Level, Average, and High Level jobs (With Salary Range)_
 
 ### [Salary Range](https://ca.indeed.com/career/web-developer/salaries)
-Average base salary for Web Developers in Canada: $72,201, however depends based experience and work
+Average base salary for Web Developers in Canada: $72,201, however depends based on experience and work.
 
 ### **Entry Level (Junior)**
 
@@ -90,11 +90,11 @@ Job Description:
 > There is an exciting opportunity as full-time software engineer with the desire, commitment and work ethic to develop and maintain our web-based applications. You'll play a key role in building and shaping our platform on both front-end and back-end for varieties of features to ensure the quality and time to market for each release. If you are energetic, goal-oriented, creative, and experienced in software development, you may be eligible to become a member of our team.
 
 Additional Skills or experience:
-* Minimum 2-year working experience in Angular 7+, able to design and implement modules and components
+* Minimum 2-year working experience in Angular 7+, able to design and implement modules and components.
 * Deep understanding of thread, blocking/non-blocking, memory, and TCP sockets.
 * Minimum 3-year experience with Spring Boot, solid knowledge of Spring Framework and its modules such as CDI, Config, Logging, JPA, MQ, Security etc.
 * Good knowledge of HTTP Protocol, SSL, Web Socket. GRPC is a nice asset.
-* Being able to work in Linux/Unix/Windows Environment with docker, familiar with IntelliJ or Eclipse
+* Being able to work in Linux/Unix/Windows Environment with docker, familiar with IntelliJ or Eclipse.
 * Working experience with Kotlin and/or Golang is a big asset.
 
 ## _Education_
