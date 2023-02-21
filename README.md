@@ -142,6 +142,13 @@ These are some of the first year programs you will take at Waterloo Computer Sci
 | One communication skills course | MATH 138 – Calculus 2 for Honours Mathematics |
 | One elective | Two electives |
 
+### Requirements for diploma
+Students must take a minimum of the following to obtain a diploma:
+- 7.5 CS units
+- 3.5 Math units
+- 5.0 Non-math elective units
+- 4.0 Additional elective units
+
 ### Length of time
 To obtain a Bachelor diploma at University of Waterloo Computer Science, a student has to undergo usually a 4-5 years (8 sessions) program depending on electives and Co-op opportunities.
 
