@@ -5,7 +5,8 @@
 
 ## _Web Developer_
 
-Have you wondered, how do websites like Youtube or Google work? They don't magically appear online but instead, someone is in charge of writing the website code and handling its data. That's the job of web developers!
+## Career Description
+Have you wondered, how do websites like Youtube or Google work? They don't magically appear online but instead, someone is in charge of writing the website code and handling its data. That's the job of web developers! Web developers control the websites we use and see everyday from it's look to function.
 
 ## _Typical duties and responsibilities_
 
